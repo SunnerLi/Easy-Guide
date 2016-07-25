@@ -2,7 +2,7 @@
 A Simple Smart Phonebased Guiding System for Visually Impaired People   
     
 <p align="center">
-  <img src="https://github.com/SunnerLi/Easy-Guide/img/icon_circle.png"/>
+  <img src="https://github.com/SunnerLi/Easy-Guide/blob/master/img/icon_circle.png"/>
 </p> 
     
 Abstract    
