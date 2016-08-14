@@ -23,7 +23,7 @@ Prize
     
 Contributor    
 -----------------------    
-[ Kevin Xiao ](https://github.com/kevinisbest) - leader    
+[ Kevin Hsiao ](https://github.com/kevinisbest) - leader    
 [ Sunner Li ](https://github.com/SunnerLi) - partner    
 [ Tim Yang ](https://github.com/sun52525252) - partner    
 [ Danny Huang ](https://github.com/DannyHuangXD) - partner    
