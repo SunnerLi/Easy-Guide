@@ -20,7 +20,7 @@ Prize
 * 2nd for the NTPU project contest    
 * Have participate the Silicon Award    
 <br/> 
-<br/>
+     
 Contributor    
 -----------------------    
 [ Kevin Hsiao ](https://github.com/kevinisbest) - leader    
